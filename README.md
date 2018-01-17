@@ -4,8 +4,8 @@ You have a kubernetes cluster up and running, aren't you excited! Now comes the 
 
 ### Roadmap
 
-[] Logging
-[] Ingress Controller
-[] DNS
-[] TLS Certificate Autogeneration
-[] Key/Secret Management
+- [ ] Logging
+- [ ] Ingress Controller
+- [ ] DNS
+- [ ] TLS Certificate Autogeneration
+- [ ] Key/Secret Management
